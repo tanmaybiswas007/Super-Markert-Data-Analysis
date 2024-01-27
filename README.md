@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img width="460" height="300" src= "Screenshot from 2024-01-27 13-59-50.png">
+  <img width="960" height="300" src= "Screenshot from 2024-01-27 13-59-50.png">
 </p>
