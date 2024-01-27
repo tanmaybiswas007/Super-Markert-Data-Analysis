@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="Screenshot from 2024-01-27 13-59-50.png">
+  <img width="460" height="300" src="https://github.com/tanmaybiswas007/tanmaybiswas007/blob/main/Screenshot%20from%202024-01-27%2013-59-50.png)https://github.com/tanmaybiswas007/tanmaybiswas007/blob/main/Screenshot%20from%202024-01-27%2013-59-50.png">
 </p>
